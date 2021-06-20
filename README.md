@@ -1,4 +1,6 @@
 # Konkuk_SW
+- 2021학년도 1학기, 4-1 SW 활동 장학 중 '자료구조' 강의 조교 활동 기록
+- 주로 미리 과제 구현한 코드로 구성됨
 
 ## 과제1
 1. Factorial 프로그램을 Recursion Version과 Iteration Version으로 각각 구현하고, 입력 값을 1~10까지 증가시키면서 화면에 출력되게 실행하시오.
